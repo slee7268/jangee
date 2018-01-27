@@ -1,0 +1,16 @@
+{
+  "name": "jangee-board-game",
+  "version": "1.0.0",
+  "description": "Korean Board Game",
+  "main": "index.js",
+  "repository": "https://github.com/slee7268/jangee/",
+  "author": "Sam Lee",
+  "license": "BSD-2-Clause",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
