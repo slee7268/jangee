@@ -1,5 +1,6 @@
 
 .square{
+
 	background-color: #ffa31a;
 	border: 1px solid black;
 	display:block;
@@ -28,6 +29,135 @@
   	transform-origin: 0% 0%;
 }
 
+#redKing{
+	position: absolute;
+	top: 28px;
+	left: 180px;
+	height: 40px;
+	width: 40px;
+	
+}
+
+#redGuardLeft{
+	position: absolute;
+	top: -15px;
+	left: 135px;
+	height: 30px;
+	width: 30px;
+}
+
+#redGuardRight{
+	position: absolute;
+	top: -15px;
+	left: 235px;
+	height: 30px;
+	width: 30px;
+}
+
+#redHorseLeft{
+	position: absolute;
+	top: -20px;
+	left: 80px;
+	height: 40px;
+	width: 40px;
+	
+}
+
+#redHorseRight{
+	position: absolute;
+	top: -20px;
+	left: 330px;
+	height: 40px;
+	width: 40px;
+}
+
+#redChariotLeft{
+	position: absolute;
+	top: -20px;
+	left: -20px;
+	height: 40px;
+	width: 40px;
+}
+#redChariotRight{
+	position: absolute;
+	top: -20px;
+	left: 380px;
+	height: 40px;
+	width: 40px;
+}
+
+#redElephantLeft{
+	position: absolute;
+	top: -20px;
+	left: 30px;
+	height: 40px;
+	width: 40px;
+}
+
+#redElephantRight{
+	position: absolute;
+	top: -20px;
+	left: 280px;
+	height: 40px;
+	width: 40px;
+}
+
+#redCannonLeft{
+	position: absolute;
+	top: 80px;
+	left: 30px;
+	height: 40px;
+	width: 40px;
+}
+
+#redCannonRight{
+	position: absolute;
+	top: 80px;
+	left: 330px;
+	height: 40px;
+	width: 40px;
+}
+
+#redPawn1{
+	position: absolute;
+	top: 130px;
+	left: -20px;
+	height: 40px;
+	width: 40px;
+}
+
+#redPawn2{
+	position: absolute;
+	top: 130px;
+	left: 80px;
+	height: 40px;
+	width: 40px;
+}
+
+#redPawn3{
+position: absolute;
+	top: 130px;
+	left: 180px;
+	height: 40px;
+	width: 40px;
+}
+
+#redPawn4{
+position: absolute;
+	top: 130px;
+	left: 280px;
+	height: 40px;
+	width: 40px;
+}
+
+#redPawn5{
+	position: absolute;
+	top: 130px;
+	left: 380px;
+	height: 40px;
+	width: 40px;
+}
+
 p {
 	border: 5px solid red;
-}
+180
