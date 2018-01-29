@@ -158,6 +158,137 @@ position: absolute;
 	width: 40px;
 }
 
+#greenGuardLeft{
+	position: absolute;
+	top: 430px;
+	left: 135px;
+	height: 30px;
+	width: 30px;
+
+}
+
+#greenGuardRight{
+	position: absolute;
+	top: 430px;
+	left: 235px;
+	height: 30px;
+	width: 30px;
+
+}
+
+#greenKing{
+	position: absolute;
+	top: 378px;
+	left: 180px;
+	height: 40px;
+	width: 40px;
+
+}
+#greenHorseLeft{
+	position: absolute;
+	top: 430px;
+	left: 80px;
+	height: 40px;
+	width: 40px;
+	
+}
+
+#greenHorseRight{
+	position: absolute;
+	top: 430px;
+	left: 330px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenChariotLeft{
+	position: absolute;
+	top: 430px;
+	left: -20px;
+	height: 40px;
+	width: 40px;
+}
+#greenChariotRight{
+	position: absolute;
+	top: 430px;
+	left: 380px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenElephantLeft{
+	position: absolute;
+	top: 430px;
+	left: 30px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenElephantRight{
+	position: absolute;
+	top: 430px;
+	left: 280px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenCannonLeft{
+	position: absolute;
+	top: 430px;
+	left: 30px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenCannonRight{
+	position: absolute;
+	top: 430px;
+	left: 330px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenPawn1{
+	position: absolute;
+	top: 280px;
+	left: -20px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenPawn2{
+	position: absolute;
+	top: 280px;
+	left: 80px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenPawn3{
+position: absolute;
+	top: 280px;
+	left: 180px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenPawn4{
+position: absolute;
+	top: 280px;
+	left: 280px;
+	height: 40px;
+	width: 40px;
+}
+
+#greenPawn5{
+	position: absolute;
+	top: 280px;
+	left: 380px;
+	height: 40px;
+	width: 40px;
+}
+
+
 p {
 	border: 5px solid red;
 180

@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"square",
+				"square"
+			],
+			[
+				"point",
+				"points_against"
+			],
+			[
+				"points",
+				"points_for"
+			],
+			[
+				"poin",
+				"points_for"
+			],
+			[
+				"team",
+				"team_name"
+			],
+			[
+				"mysql",
+				"mysql_connect"
+			],
+			[
+				"getTrick",
+				"getCompletedTrickLength"
+			],
+			[
+				"max",
+				"maxIndex"
+			],
+			[
+				"play",
+				"playable_cards"
+			],
+			[
+				"pass",
+				"passCardsArray"
+			],
+			[
+				"getEleme",
+				"getElementById"
+			],
+			[
+				"getElement",
+				"getElementsByClassName"
+			],
+			[
+				"getE",
+				"getElementsByClassName"
+			],
+			[
+				"geteleme",
+				"getElementsByClassName"
+			],
+			[
+				"child",
+				"childNodes"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"text",
+				"text_player_message"
+			],
+			[
+				"getElem",
+				"getElementsByClassName"
+			],
+			[
+				"getEle",
+				"getElementById"
+			],
+			[
+				"grid",
+				"grid-template-rows"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1748,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/styles.css",
+			"settings":
+			{
+				"buffer_size": 66,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": ".square{"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 257.0,
+		"last_filter": "delete",
+		"selected_items":
+		[
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/projects/jangee/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/projects/jangee/node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/links.txt",
+		"/C/Users/slee7268/Documents/circosHeat.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat8.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat7.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat6.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat2.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat3.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat4.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circosHeat5.txt",
+		"/C/Users/slee7268/Documents/circos.txt",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/software/circos/circos-0.69-6/herv/data/circos.txt",
+		"/C/Users/slee7268/Documents/My story.docx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/TeamForm.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/GameStatistics.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/TeamDetail.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/PlayerList.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/AppNav.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/TeamList.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/LoginForm.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/RegistrationForm.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/LoginPage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/AddPlayer.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/GamesList.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/GamesPage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/index.js",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/containers/AppContainer.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/TeamListPage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/index.js",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/actionCreators/login.js",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/PlayerForm.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/SchemaForm.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/components/AddTeam.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/TeamHomePage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/HomePage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/pages/MyTeamPage.jsx",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/src/containers/index.js",
+		"/C/Users/slee7268/AppData/Local/lxss/home/jhwan/sites/comp426-web/package.json",
+		"/C/Users/slee7268/Downloads/circos.txt",
+		"/C/xampp/htdocs/hello.php",
+		"/C/xampp/readme_en.txt",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/Card.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/Hearts.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/HeartsMatch.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/DumbAI.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/SmartAI.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/TextPlayer.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/TextPlayerVsThreeDumbAI.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/FourTextPlayers.js",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/FourTextPlayers.html",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/Hearts.html",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/FourTextPlayers.css",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/jquery-3.2.1.js",
+		"/C/Users/slee7268/Documents/Projects/Gmail/gmailscraper.py",
+		"/C/Users/slee7268/Downloads/SPLT.txt",
+		"/C/Users/slee7268/Downloads/BST_Node.txt",
+		"/C/Users/slee7268/Downloads/Junit4.txt",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/testbed.css",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/TextPlayerVsThreeDumbAI.html",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A2/TextPlayerVsThreeDumbAI.css",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/a1.css",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/atreus.html",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/agamemnon.html",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/a1.html",
+		"/C/Users/slee7268/Documents/Javascript/first",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/agamemnon",
+		"/C/Users/slee7268/Documents/UNC/Senior Year/COMP 426/A1/atreus",
+		"/C/Users/slee7268/Documents/Javascript/a1.html",
+		"/C/Users/slee7268/Documents/R Data/TCGA_Kidney_Met_analysis/immune_features.mtrx.txt"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sm",
+			"\"",
+			"1000",
+			"this will be a lot more interesting",
+			"this will be",
+			"successURL",
+			"          \n",
+			"team"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"md",
+			"",
+			"214"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								386,
+								386
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"auto_name": ".square{",
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jangee.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"homep",
+				"src\\pages\\HomePage.jsx"
+			],
+			[
+				"appnav",
+				"src\\components\\AppNav.jsx"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"appcon",
+				"src\\containers\\AppContainer.jsx"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\slee7268\\Documents\\UNC\\Senior Year\\COMP 426\\Ultimanager.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
